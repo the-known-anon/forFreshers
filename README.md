@@ -1,8 +1,8 @@
-<h1>Hello Freshers!</h1>
+<h1><b>Hello Freshers!</b></h1>
 I know you're here for the free T-shirt, but that's fine....<br>
 <hr>
 Yes sir, we are here for the free t-shirt
-i think this page needs more memes.
+<b>I think this page needs more memes.</b>
 <hr>
 You have this repo and show me what you got, i am open to pulls!!!!
 <hr>
